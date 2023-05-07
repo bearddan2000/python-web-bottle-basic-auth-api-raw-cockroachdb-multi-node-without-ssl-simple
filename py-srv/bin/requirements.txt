@@ -1,0 +1,4 @@
+bottle
+bottle-sqlalchemy
+sqlalchemy-cockroachdb
+psycopg2
